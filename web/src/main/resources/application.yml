@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: demo
+
+arconia:
+  multitenancy:
+    details:
+      source: properties
+      tenants:
+        - identifier: dukes
+          enabled: true
+        - identifier: beans
+          enabled: true
