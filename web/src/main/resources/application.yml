@@ -8,6 +8,8 @@ arconia:
       source: properties
       tenants:
         - identifier: dukes
-          enabled: true
         - identifier: beans
-          enabled: true
+        - identifier: pixie
+          enabled: false
+          attributes:
+            status: onboarding

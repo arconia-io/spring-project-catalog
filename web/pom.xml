@@ -15,7 +15,7 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>
-		<arconia.version>0.1.2</arconia.version>
+		<arconia.version>0.2.0</arconia.version>
 	</properties>
 	<dependencies>
 		<dependency>
